@@ -23,7 +23,7 @@ This repository contains a fully declarative **Home Manager flake** designed to 
 
 ## 🚀 Installation (One-Click)
 
-This repository includes a robust `install.sh` script that automates the entire setup. It will automatically install core system dependencies (like Hyprland and Kitty), install the Nix package manager, and deploy the Home Manager configurations tailored to your system username.
+This repository includes a robust `install.sh` script that automates the entire setup. It will automatically install core system dependencies (like Hyprland), install the Nix package manager, and deploy the Home Manager configurations tailored to your system username.
 
 1. **Clone the Repository**: 
    Clone this repository to your home directory (e.g., `~/gui/new_home`).
